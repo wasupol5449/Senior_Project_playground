@@ -3,7 +3,7 @@ name = "senior-project-resource-and-code"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.12"
 dependencies = [
     "chronos-forecasting>=2.3.2",
     "ipykernel>=7.3.0",
