@@ -19,3 +19,4 @@ wheels/
 *.pkl
 Literature Review/
 command_for_git.txt
+test_pytorch_ver.ipynb
